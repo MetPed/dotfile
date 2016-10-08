@@ -6,3 +6,5 @@ set number
 
 "Display the relative number of the lines above and bellow
 set relativenumber
+
+"Test line
