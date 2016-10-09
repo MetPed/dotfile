@@ -8,3 +8,4 @@ set number
 set relativenumber
 
 "Test line
+"Test add new line and try to push
